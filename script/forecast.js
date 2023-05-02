@@ -12,9 +12,7 @@ const getWeather = async (id) => {
     return data[0];
 
 };
-// getWeather('vijay')
 
-// getWeather('329260')
 
 
 // get city information
@@ -28,7 +26,6 @@ const getCity = async (city) => {
     console.log(data);
 
     return data[0]
-    // console.log(data[2])
 }
 
 // getCity('manchester')

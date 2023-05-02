@@ -3,15 +3,10 @@ body {
   letter-spacing: 0.2em;
   font-size: 0.8rem;
 }
-.container {
-  /* max-width: 50px; */
-  max-height: 25vh;
-  width: 50%;
+.weather {
+  height: 25vh;
+  width: 40%;
 }
-
-.card {
-}
-
 .icon {
   position: relative;
   top: -50px;
